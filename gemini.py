@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 # *** coding: utf-8 ***
-# *** Author: Goldy Thundiyil Joseph ***
-# *** Gemini is a program which generates thumbnail from image. ***
-
 
 from PIL import Image
 import os
